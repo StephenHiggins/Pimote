@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icons/Media-Controls-Mute-icon.png</file>
+    <file>icons/muted.png</file>
+  </qresource>
+</RCC>
